@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+
+.first,.last{
+	width: 200px;
+}
+.middle{
+	width: 600px
+}
